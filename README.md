@@ -1,4 +1,4 @@
-🖧 Enterprise Network Simulation
+Enterprise Network Simulation
 
 VLAN Segmentation, Inter-VLAN Routing, OSPF & Extended ACL
 
